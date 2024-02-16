@@ -1,3 +1,30 @@
+# Personal website & blog in Next.js template
+
+This website is created using this beautifyl template
+
+Below is the original README.md contents
+
+Notes:
+- yarn
+- set PWD="$(pwd)"
+- yarn dev
+- http://localhost:300
+
+Customize:
+- Personalize siteMetadata.js (site related information)
+- Modify the content security policy in next.config.js if you want to use other analytics provider or a commenting solution other than giscus.
+- Personalize authors/default.md (main author)
+- Modify projectsData.ts
+- Modify headerNavLinks.ts to customize navigation links
+- Add blog posts
+
+<br />
+<hr />
+<hr />
+<hr />
+<br />
+<br />
+
 ![tailwind-nextjs-banner](/public/static/images/twitter-card.png)
 
 # Tailwind Nextjs Starter Blog
