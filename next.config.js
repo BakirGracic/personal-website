@@ -73,6 +73,16 @@ module.exports = () => {
         },
       ],
     },
+    // CV redirect did not work because of not-fount.jsx, used proprietary route and Next.js's Redirect
+    // async redirects() {
+    //   return [
+    //     {
+    //       source: '/cv/',
+    //       destination: '/Bakir-Gracic-CV.pdf',
+    //       permanent: false,
+    //     },
+    //   ]
+    // },
     async headers() {
       return [
         {
