@@ -7,20 +7,34 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `What if you could look up any information in the world? Webpages, images, videos
-    and more. Google has many features to help you find exactly what you're looking
-    for.`,
-    imgSrc: '/static/images/google.png',
-    href: 'https://www.google.com',
+    title: 'Bosnian Registration Plates',
+    description: `A simple C++ program to get all possible variations of 3 types of car license plates in Bosnia and Herzegovina. Fun fact - first GitHub repository!`,
+    imgSrc: '/static/images/projects/bosnian-registration-plates.png',
+    href: 'https://github.com/BakirGracic/registration-plates-of-bosnia-and-herzegovina',
   },
   {
-    title: 'The Time Machine',
-    description: `Imagine being able to travel back in time or to the future. Simple turn the knob
-    to the desired date and press "Go". No more worrying about lost keys or
-    forgotten headphones with this simple yet affordable solution.`,
-    imgSrc: '/static/images/time-machine.jpg',
-    href: '/blog/the-time-machine',
+    title: 'Plooxy',
+    description: `Connect and thrive with Plooxy - an innovative platform for your digital presence and marketing. With intuitive and simple interface, this platform gives it's users a whole new exprience!`,
+    imgSrc: '/static/images/projects/plooxy.jpg',
+    href: 'https://plooxy.io',
+  },
+  {
+    title: 'Muslim Prayer Times',
+    description: `An extended version of a popular Balkan app for tracking 5 daily prayer times in Muslims`,
+    imgSrc: '/static/images/projects/muslim-prayer-times.png',
+    href: 'https://plooxy.io',
+  },
+  {
+    title: 'Website View Farming Script',
+    description: `Ever wanted to farm view count on GitHub or some other website? You can achieve the same with sending parallel requests to that website with this script`,
+    imgSrc: '/static/images/projects/website-view-farming-script.png',
+    href: 'https://github.com/BakirGracic/simple-website-views-farming-script',
+  },
+  {
+    title: 'Automatic Windows Font Installer',
+    description: `Designers surely have alot of local font files, right? What if you migrate to another device or simply need to reinstall them all? Don't hassle with manually installing them, let this script do all the work!`,
+    imgSrc: '/static/images/projects/automatic-windows-font-installer.png',
+    href: 'https://github.com/BakirGracic/windows-font-installer',
   },
 ]
 
