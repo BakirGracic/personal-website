@@ -13,12 +13,6 @@ const projectsData: Project[] = [
     href: 'https://github.com/BakirGracic/registration-plates-of-bosnia-and-herzegovina',
   },
   {
-    title: 'Plooxy',
-    description: `Connect and thrive with Plooxy - an innovative platform for your digital presence and marketing. With intuitive and simple interface, this platform gives it's users a whole new exprience!`,
-    imgSrc: '/static/images/projects/plooxy.jpg',
-    href: 'https://plooxy.io',
-  },
-  {
     title: 'Muslim Prayer Times',
     description: `An extended version of a popular Balkan app for tracking 5 daily prayer times in Muslims`,
     imgSrc: '/static/images/projects/muslim-prayer-times.png',
