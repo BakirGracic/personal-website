@@ -7,6 +7,18 @@ interface Project {
 
 const projectsData: Project[] = [
   {
+    title: 'PHP backend framework',
+    description: `My custom, procedural (no OOP), plain PHP, RESTful, backend API framework. It's a simple, yet powerful, framework that I use for all of my projects.`,
+    imgSrc: '/static/images/projects/bnpf.png',
+    href: 'https://github.com/BakirGracic/bnpf',
+  },
+  {
+    title: 'Telegram Birthday Notifier',
+    description: `Simple and fun Telegram bot that notifies you about upcoming birthdays. It's a great way to remember and congratulate people on their special day!`,
+    imgSrc: '/static/images/projects/telegram-birthday-notifier.png',
+    href: 'https://github.com/BakirGracic/telegram-birthday-notifier',
+  },
+  {
     title: 'Bosnian Registration Plates',
     description: `A simple C++ program to get all possible variations of 3 types of car license plates in Bosnia and Herzegovina. Fun fact - first GitHub repository!`,
     imgSrc: '/static/images/projects/bosnian-registration-plates.png',
