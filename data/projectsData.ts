@@ -13,6 +13,12 @@ const projectsData: Project[] = [
     href: 'https://github.com/BakirGracic/bnpf',
   },
   {
+    title: 'How much I wasted',
+    description: `Motivational age counter. Counts how many years of life you wasted, or not wasted, in precise decimal points to achieve effect of time running out`,
+    imgSrc: '/static/images/projects/how-much-i-wasted.jpg',
+    href: 'https://github.com/BakirGracic/how-much-i-wasted',
+  },
+  {
     title: 'Telegram Birthday Notifier',
     description: `Simple and fun Telegram bot that notifies you about upcoming birthdays. It's a great way to remember and congratulate people on their special day!`,
     imgSrc: '/static/images/projects/telegram-birthday-notifier.png',
